@@ -27,22 +27,10 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 - ☁️ **Big Data & Cloud Computing** – AWS, Google Cloud, Azure.  
 
 ## 📌 Dự án tiêu biểu  
-### 1️⃣ **Dự báo rủi ro gian lận báo cáo tài chính**  
-📌 Phát triển mô hình Machine Learning để phát hiện gian lận tài chính trên thị trường chứng khoán Việt Nam.  
-👉 [Xem chi tiết](https://github.com/DAB-Club/Financial-Fraud-Detection)  
-
-### 2️⃣ **Phân tích dữ liệu nhân sự tại FPT Telecom**  
-📌 Dự báo xu hướng nghỉ việc và phân tích hiệu suất làm việc của nhân sự.  
-👉 [Xem chi tiết](https://github.com/DAB-Club/HR-Analytics)  
-
-### 3️⃣ **Xây dựng hệ thống quản lý dữ liệu khách hàng**  
-📌 Ứng dụng SQL và Python để tối ưu quản lý khách hàng trong ngành thương mại điện tử.  
-👉 [Xem chi tiết](https://github.com/DAB-Club/Customer-Data-Management)  
+Đang cập nhật... 
 
 ## 📆 Sự kiện sắp tới  
-📅 **[Tên sự kiện]** – Ngày tổ chức: DD/MM/YYYY  
-📌 **[Mô tả ngắn về sự kiện]**  
-👉 Đăng ký ngay: [Link đăng ký](https://event.dab-club.com)  
+Đang cập nhật...
 
 ## 🎓 Thành viên & Đối tượng tham gia  
 📌 Dành cho sinh viên, giảng viên, chuyên gia & những người đam mê dữ liệu.  
@@ -50,12 +38,17 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 📌 Cơ hội học hỏi từ những chuyên gia trong ngành & tham gia các dự án thực tế.  
 
 ## 📫 Liên hệ  
-📧 Email: contact@dab-club.com  
-🌐 Website: [dab-club.com](https://dab-club.com)  
-💼 LinkedIn: [linkedin.com/company/dab-club](https://linkedin.com/company/dab-club)  
-📌 Facebook: [fb.com/dab-club](https://fb.com/dab-club)  
-🐦 Twitter: [twitter.com/dab_club](https://twitter.com/dab_club)  
-📢 Discord: [discord.gg/dab-club](https://discord.gg/dab-club)  
+📧 Email: dab.tmu@gmail.com  
+📌 Facebook: [fb.com/dab-club]([https://fb.com/dab-club](https://www.facebook.com/dabtmu/))  
+☎️ Hotline:
+Chủ tịch: 0853628082 (Ngô Trần Thanh Ngân)
+Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc)
+
+---
+
+**Github được quản lý trực tiếp bởi BAN CHUYÊN MÔN**
+Mọi thông tin đóng góp xin vui lòng liên hệ:
+**Trưởng ban chuyên môn: Bùi Trịnh Minh Ngọc** 
 
 ---
 
