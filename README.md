@@ -39,7 +39,7 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 
 ## 📫 Liên hệ  
 📧 Email: dab.tmu@gmail.com  
-📌 Facebook: [fb.com/dab-club]([https://fb.com/dab-club](https://www.facebook.com/dabtmu/))  
+📌 Facebook: [https://fb.com/dab-club](https://www.facebook.com/dabtmu/) 
 ☎️ Hotline:
 Chủ tịch: 0853628082 (Ngô Trần Thanh Ngân).
 Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc).
