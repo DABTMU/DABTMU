@@ -46,7 +46,7 @@ Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc).
 
 ---
 
-##Github được quản lý trực tiếp bởi BAN CHUYÊN MÔN
+## Github được quản lý trực tiếp bởi BAN CHUYÊN MÔN
 Mọi thông tin đóng góp xin vui lòng liên hệ.
 **Trưởng ban chuyên môn: Bùi Trịnh Minh Ngọc** 
 
