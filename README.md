@@ -39,15 +39,15 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 
 ## 📫 Liên hệ  
 📧 Email: dab.tmu@gmail.com  
-📌 Facebook: [https://fb.com/dab-club](https://www.facebook.com/dabtmu/) 
-☎️ Hotline:
-Chủ tịch: 0853628082 (Ngô Trần Thanh Ngân).
-Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc).
+📌 Facebook: [DAB - CLB Phân tích dữ liệu trong kinh doanh](https://www.facebook.com/dabtmu/)   
+☎️ Hotline:  
+Chủ tịch: 0853628082 (Ngô Trần Thanh Ngân).  
+Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc).  
 
 ---
 
-## Github được quản lý trực tiếp bởi BAN CHUYÊN MÔN
-Mọi thông tin đóng góp xin vui lòng liên hệ.
+## Github được quản lý trực tiếp bởi BAN CHUYÊN MÔN  
+Mọi thông tin đóng góp xin vui lòng liên hệ  
 **Trưởng ban chuyên môn: Bùi Trịnh Minh Ngọc** 
 
 ---
