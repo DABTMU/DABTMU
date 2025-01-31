@@ -1,6 +1,6 @@
 # 📊 CLB Phân Tích Dữ Liệu Trong Kinh Doanh (DAB)  
 
-![DAB Logo](https://github.com/DABTMU/DABTMU/issues/1#issue-2821497170)
+![DAB Logo](https://private-user-images.githubusercontent.com/193225905/408241760-4ec16ad0-442e-4e49-a19a-d4ac1d370578.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzMDU0MTIsIm5iZiI6MTczODMwNTExMiwicGF0aCI6Ii8xOTMyMjU5MDUvNDA4MjQxNzYwLTRlYzE2YWQwLTQ0MmUtNGU0OS1hMTlhLWQ0YWMxZDM3MDU3OC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEzMVQwNjMxNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDJjMGUyOWM4ZjIwNzBkMzhjMWU1YTk3MzhlN2M0YTY3NGZiMWFmNGQ2NTE0OWFhMTFkNjczOWYwZDM4NzA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.GdhcvBwE2XH3igZLZAk_ST8t3hY_Sob635vn6NzXrrg)
 
 ## 🚀 Giới thiệu  
 Chào mừng bạn đến với **CLB Phân Tích Dữ Liệu Trong Kinh Doanh (DAB - Data Analytics in Business Club)**!  
