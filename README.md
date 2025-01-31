@@ -1,6 +1,6 @@
 # 📊 CLB Phân Tích Dữ Liệu Trong Kinh Doanh (DAB)  
 
-![DAB Logo](https://i.imgur.com/DAKGlkG.png)
+![DAB Logo](https://github.com/DABTMU/DABTMU/issues/1#issue-2821497170)
 
 ## 🚀 Giới thiệu  
 Chào mừng bạn đến với **CLB Phân Tích Dữ Liệu Trong Kinh Doanh (DAB - Data Analytics in Business Club)**!  
