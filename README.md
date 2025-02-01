@@ -89,17 +89,17 @@ GitHub là một nền tảng mạnh mẽ giúp bạn truy cập, theo dõi và 
  ┗ 📜 README.md
 ```
 
-### 📝 3.2. Cách Đọc File Markdown
-Markdown (`.md`) là định dạng văn bản phổ biến trên GitHub.
-- **Cách xem trên GitHub**: Click vào tập tin để GitHub tự động hiển thị nội dung định dạng.
-- **Cách xem trên máy**: Mở bằng trình soạn thảo Markdown như VS Code, Typora.
+### 📝 3.2. Cách Đọc File Markdown  
+Markdown (`.md`) là định dạng văn bản phổ biến trên GitHub.  
+- **Cách xem trên GitHub**: Click vào tập tin để GitHub tự động hiển thị nội dung định dạng.  
+- **Cách xem trên máy**: Mở bằng trình soạn thảo Markdown như VS Code, Typora.  
 
 ---
-## 🔹 4. Tận Dụng GitHub Để Học Tốt Hơn
-✅ **Xem lại kiến thức theo từng chủ đề.**
-✅ **Sử dụng tính năng "Issues" để đặt câu hỏi hoặc đóng góp ý kiến.**
-✅ **Theo dõi repo để nhận cập nhật mới nhất.**
-✅ **Sao chép (Fork) repo để tự thực hành và ghi chép thêm.**
+## 🔹 4. Tận Dụng GitHub Để Học Tốt Hơn  
+✅ **Xem lại kiến thức theo từng chủ đề.**  
+✅ **Sử dụng tính năng "Issues" để đặt câu hỏi hoặc đóng góp ý kiến.**  
+✅ **Theo dõi repo để nhận cập nhật mới nhất.**  
+✅ **Sao chép (Fork) repo để tự thực hành và ghi chép thêm.**  
 
 📌 **Hãy bắt đầu ngay!** Truy cập repo và khám phá kiến thức Data Analytics ngay hôm nay! 🚀
 
