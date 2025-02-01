@@ -41,8 +41,8 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 📧 Email: dab.tmu@gmail.com  
 📌 Facebook: [DAB - CLB Phân tích dữ liệu trong kinh doanh](https://www.facebook.com/dabtmu/)   
 ☎️ Hotline:  
-Chủ tịch: 0853628082 (Ngô Trần Thanh Ngân).  
-Phó Chủ tịch: 0857432465 (Bùi Trịnh Minh Ngọc).  
+Chủ tịch: 0853628082 (**Ngô Trần Thanh Ngân**).  
+Phó Chủ tịch: 0857432465 (**Bùi Trịnh Minh Ngọc**).  
 
 ---
 
@@ -52,4 +52,4 @@ Mọi thông tin đóng góp xin vui lòng liên hệ
 
 ---
 
-🚀 **Hãy tham gia cùng chúng tôi để khám phá sức mạnh của dữ liệu!**  
+## 🚀 **Hãy tham gia cùng chúng tôi để khám phá sức mạnh của dữ liệu!**  
