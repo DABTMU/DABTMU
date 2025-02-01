@@ -71,16 +71,6 @@ GitHub là một nền tảng mạnh mẽ giúp bạn truy cập, theo dõi và 
 - **Thư mục & Tập tin**: Xem nội dung tài liệu trong các thư mục như `SQL`, `Python`, `Tableau`, `Machine_Learning`.
 - **Nhánh (Branches)**: Nếu repo có nhiều nhánh, chọn nhánh phù hợp để xem đúng nội dung.
 
-### ✨ 2.3. Tải Nội Dung Về Máy
-Nếu muốn tải toàn bộ repo về máy để xem offline:
-```bash
-git clone https://github.com/username/Data-Analytics-Learning.git
-```
-Hoặc tải dưới dạng **ZIP**:
-1. Nhấn vào nút **Code** (màu xanh lá cây).
-2. Chọn **Download ZIP**.
-3. Giải nén để xem nội dung.
-
 ---
 ## 🔹 3. Cách Tổ Chức Nội Dung Trong Repo
 ### 📂 3.1. Cấu Trúc Repo
