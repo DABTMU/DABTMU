@@ -53,3 +53,64 @@ Mọi thông tin đóng góp xin vui lòng liên hệ
 ---
 
 ## 🚀 **Hãy tham gia cùng chúng tôi để khám phá sức mạnh của dữ liệu!**  
+
+---
+# 📌 Hướng Dẫn Xem Repo GitHub Về Data Analytics (DAB)
+
+## 🔹 1. Giới Thiệu
+GitHub là một nền tảng mạnh mẽ giúp bạn truy cập, theo dõi và học hỏi các tài liệu về **Data Analytics (DAB)**. Dưới đây là hướng dẫn cách xem và khai thác hiệu quả nội dung trên GitHub.
+
+---
+## 🔹 2. Cách Truy Cập Repo
+### ✨ 2.1. Mở Repository
+1. Truy cập [RepoDAB](https://github.com/DABTMU?tab=repositories) hoặc clink vào Repositories trên góc trái (cạnh Overview)
+2. Nhấn vào repo để xem nội dung chi tiết.
+
+### ✨ 2.2. Xem Các Tập Tin Quan Trọng
+- **README.md**: Đây là file giới thiệu tổng quan về repo.
+- **Thư mục & Tập tin**: Xem nội dung tài liệu trong các thư mục như `SQL`, `Python`, `Tableau`, `Machine_Learning`.
+- **Nhánh (Branches)**: Nếu repo có nhiều nhánh, chọn nhánh phù hợp để xem đúng nội dung.
+
+### ✨ 2.3. Tải Nội Dung Về Máy
+Nếu muốn tải toàn bộ repo về máy để xem offline:
+```bash
+git clone https://github.com/username/Data-Analytics-Learning.git
+```
+Hoặc tải dưới dạng **ZIP**:
+1. Nhấn vào nút **Code** (màu xanh lá cây).
+2. Chọn **Download ZIP**.
+3. Giải nén để xem nội dung.
+
+---
+## 🔹 3. Cách Tổ Chức Nội Dung Trong Repo
+### 📂 3.1. Cấu Trúc Repo
+```
+📦 Data-Analytics-Learning
+ ┣ 📂 SQL
+ ┃ ┣ 📜 SQL_Basics.md
+ ┃ ┣ 📜 Advanced_SQL.md
+ ┣ 📂 Python
+ ┃ ┣ 📜 Pandas_Tutorial.md
+ ┃ ┣ 📜 Numpy_Guide.md
+ ┣ 📂 Tableau
+ ┃ ┣ 📜 Data_Visualization.md
+ ┣ 📂 Machine_Learning
+ ┃ ┣ 📜 Regression_Models.md
+ ┗ 📜 README.md
+```
+
+### 📝 3.2. Cách Đọc File Markdown
+Markdown (`.md`) là định dạng văn bản phổ biến trên GitHub.
+- **Cách xem trên GitHub**: Click vào tập tin để GitHub tự động hiển thị nội dung định dạng.
+- **Cách xem trên máy**: Mở bằng trình soạn thảo Markdown như VS Code, Typora.
+
+---
+## 🔹 4. Tận Dụng GitHub Để Học Tốt Hơn
+✅ **Xem lại kiến thức theo từng chủ đề.**
+✅ **Sử dụng tính năng "Issues" để đặt câu hỏi hoặc đóng góp ý kiến.**
+✅ **Theo dõi repo để nhận cập nhật mới nhất.**
+✅ **Sao chép (Fork) repo để tự thực hành và ghi chép thêm.**
+
+📌 **Hãy bắt đầu ngay!** Truy cập repo và khám phá kiến thức Data Analytics ngay hôm nay! 🚀
+
+
