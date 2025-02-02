@@ -27,10 +27,10 @@ Chúng tôi giúp kết nối, chia sẻ kiến thức và cùng nhau khám phá
 - ☁️ **Big Data & Cloud Computing** – AWS, Google Cloud, Azure.  
 
 ## 📌 Dự án tiêu biểu  
-Đang cập nhật... 
+*Đang cập nhật*... 
 
 ## 📆 Sự kiện sắp tới  
-Đang cập nhật...
+*Đang cập nhật*...
 
 ## 🎓 Thành viên & Đối tượng tham gia  
 📌 Dành cho sinh viên, giảng viên, chuyên gia & những người đam mê dữ liệu.  
@@ -74,20 +74,7 @@ GitHub là một nền tảng mạnh mẽ giúp bạn truy cập, theo dõi và 
 ---
 ## 🔹 3. Cách Tổ Chức Nội Dung Trong Repo
 ### 📂 3.1. Cấu Trúc Repo
-```
-📦 Data-Analytics-Learning
- ┣ 📂 SQL
- ┃ ┣ 📜 SQL_Basics.md
- ┃ ┣ 📜 Advanced_SQL.md
- ┣ 📂 Python
- ┃ ┣ 📜 Pandas_Tutorial.md
- ┃ ┣ 📜 Numpy_Guide.md
- ┣ 📂 Tableau
- ┃ ┣ 📜 Data_Visualization.md
- ┣ 📂 Machine_Learning
- ┃ ┣ 📜 Regression_Models.md
- ┗ 📜 README.md
-```
+*Đang cập nhật*...  
 
 ### 📝 3.2. Cách Đọc File Markdown  
 Markdown (`.md`) là định dạng văn bản phổ biến trên GitHub.  
